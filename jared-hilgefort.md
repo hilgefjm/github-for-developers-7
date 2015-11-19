@@ -7,3 +7,5 @@
 **Food:** Hamburgers
 
 **Hobby:** Soccer
+
+**Favorite color:** Orange
